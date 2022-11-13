@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React.js, Next.js and TypeScript
 - 💻 I'm currently working with JavaScript, Angular.js, SASS, HTML and ServiceNow
 - 💚 I’m looking to collaborate on some personal projects and OpenSource
-- 📫 Reach me on my email: gaspericasag@gmail.com
+- 📫 Reach me on my email: gabrielgc.dev@gmail.com
 
 <!---
 gabrielcasag/gabrielcasag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
